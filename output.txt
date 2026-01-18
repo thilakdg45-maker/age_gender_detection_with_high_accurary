@@ -1,0 +1,13 @@
+---- CNN OUTPUT ----
+Age Group: 20–35
+Gender Distribution: {'female': 55, 'male': 45}
+
+---- RETRIEVED DOCUMENTS ----
+- SDG 11 promotes sustainable and inclusive public transportation systems.
+- Urban mobility studies show that young adults rely heavily on metro systems for employment.
+- Higher crowd density at transit hubs requires improved safety and transport frequency.
+
+---- RAG GENERATED INSIGHT ----
+Based on SDG 11 guidelines and urban mobility studies, the detected concentration
+of young adults at the metro station indicates a strong demand for frequent public
+transportation services and enhanced safety infrastructure.
